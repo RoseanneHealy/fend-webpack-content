@@ -1,4 +1,3 @@
-alert('hi');
 
 var path = require('path')
 const express = require('express')
